@@ -1,0 +1,8 @@
+{
+  "username": "",
+  "password": "",
+  "database": "",
+  "host": "users.sqlite",
+  "dialect": "sqlite",
+  "operatorsAliases": false
+}
